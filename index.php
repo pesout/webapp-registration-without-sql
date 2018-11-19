@@ -84,7 +84,7 @@ Created by Stepan Pesout
 					alert(response);
 				})
 				.fail(function() {
-    				alert("Something went wrong, please try again later.");
+    					alert("Something went wrong, please try again later.");
  				});
 			});
 		</script>
