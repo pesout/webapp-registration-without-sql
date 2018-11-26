@@ -11,7 +11,7 @@ Created by Stepan Pesout
 	<head>
 		<meta http-equiv="Content-Language" content="en">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>No DB webapp registration</title>
+		<title>No SQL webapp registration</title>
 		<meta name="viewport" content="width=device-width,initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	</head>
