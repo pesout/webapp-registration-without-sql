@@ -19,8 +19,7 @@
         
         return md5($randomString);
     }
-    
-     
+        
     if ($_POST["username_address"] != "") die("Spam"); // Antispam
 
     if (strpos($_SERVER['HTTP_ORIGIN'], $_SERVER['HTTP_HOST']) !== false) { // Prevent requests from outside
@@ -89,4 +88,3 @@
 	} else die("Unauthorized");
 	
 ?>
-
